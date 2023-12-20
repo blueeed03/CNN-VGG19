@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/6 16:39
-# @File     :canshu.py
-# @Software :PyCharm
-# @Project  :参数信息
-# @Content  :可变参数信息
-
-
 """路径参数"""
 train_img_dir = "C:/Users/bluuue/Desktop/CNN_newlogo/sample1/Logo-2K+/Accessories" #训练集路径
 test_img_dir = "C:/Users/bluuue/Desktop/CNN_newlogo/sample1/Logo-2K+/Accessories" #测试集路径
