@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 15 16:23:15 2023
-
-@author: bluuue
-"""
 import tensorflow as tf
 import numpy as np
 import cv2
