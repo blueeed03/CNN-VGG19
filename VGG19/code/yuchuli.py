@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/4 18:19
-# @File     :yuchuli.py
-# @Software :PyCharm
-# @Project  :数据加载和预处理
-# @Content  :
-"""
-通过read_path方法读取文件夹中的所有子文件夹的图片文件路径，对路径进行打乱，随后划分训练集和验证集，
-通过preprocess_img_all方法进行图片的加载以及预处理（调整图片大小、归一化、灰度并增加维度），
-通过text2vec方法将图片标签进行独热编码转换，随后将图片矩阵数据和独热编码标签打包并分批
-"""
-
 import os
 import numpy as np
 import tensorflow as tf
