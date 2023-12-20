@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/4 17:47
-# @File     :model.py
-# @Software :PyCharm
-# @Project  :模型
-# @Content  :模型函数
-
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
