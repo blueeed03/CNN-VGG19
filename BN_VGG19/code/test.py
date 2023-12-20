@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/6 19:46
-# @File     :test.py
-# @Software :PyCharm
-# @Project  :
-# @Content  :
-
-
 import os
 import numpy as np
 import pathlib
