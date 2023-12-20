@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/4 21:46
-# @File     :gaiming.py
-# @Software :PyCharm
-# @Project  :修改图片文件名称
-# @Content  :
-
 import os
 import canshu
 
