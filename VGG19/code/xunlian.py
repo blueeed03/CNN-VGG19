@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     :2021/12/4 22:11
-# @File     :xunlian.py
-# @Software :PyCharm
-# @Project  :训练
-# @Content  :对模型进行训练、保存以及训练期间的数据进行可视化展示
-
-
-
 import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.keras import optimizers,losses
